@@ -1,0 +1,12 @@
+body {
+    background-color: blue;
+}
+.container{
+    background-color: green;
+}
+
+      .btn-1{
+        border-color: #D9A3A9;
+        background: -webkit-gradient(linear, left top, left bottom, from(#D9A3A9), to(#FFE6E9));
+      }
+    
